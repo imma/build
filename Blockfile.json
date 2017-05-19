@@ -1,5 +1,5 @@
 {
   "require": [
-    "buildkite"
+    "dream", "limbo", "inception", "terraform"
   ]
 }
