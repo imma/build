@@ -1,5 +1,6 @@
 {
   "require": [
-    "dream", "limbo", "inception", "terraform"
+    "dream", "limbo", "inception", "terraform",
+    "buildkite"
   ]
 }
