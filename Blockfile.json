@@ -2,6 +2,6 @@
   "require": [
     "dream", "limbo", "inception", "terraform",
     "docs",
-    "buildkite"
+    "buildkite", "jenkins"
   ]
 }
