@@ -1,6 +1,6 @@
 {
   "require": [
-    "dream", "limbo", "inception", "terraform", "fogg",
+    "dream", "limbo", "inception", "tfenv", "fogg",
     "docs",
     "jenkins",
     "vagrant"
