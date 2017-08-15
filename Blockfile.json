@@ -2,7 +2,6 @@
   "require": [
     "dream", "limbo", "inception", "terraform", "fogg",
     "docs",
-    "jenkins",
-    "vagrant"
+    "jenkins"
   ]
 }
