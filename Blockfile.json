@@ -1,8 +1,9 @@
 {
   "require": [
-    "dream", "limbo", "inception", "terraform", "fogg",
+    "dream", "limbo", "inception", 
+    "terraform", "fogg",
     "docs",
-    "jenkins",
-    "vagrant"
+    "vagrant",
+    "concourse"
   ]
 }
