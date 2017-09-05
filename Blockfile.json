@@ -1,7 +1,7 @@
 {
   "require": [
     "dream", "limbo", "inception", 
-    "terraform", "wtf", "fogg",
+    "fogg",
     "docs",
     "vagrant",
     "concourse"
