@@ -1,1 +1,1 @@
-Visit http://defn.sh/build/ or open `docs/index.html`
+content/build.md
