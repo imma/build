@@ -1,9 +1,10 @@
 {
   "require": [
-    "dream", "limbo", "inception", 
+    "dream",
+    "limbo",
+    "inception",
     "fogg",
     "docs",
-    "vagrant",
-    "concourse"
+    "vagrant"
   ]
 }
